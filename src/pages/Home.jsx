@@ -18,7 +18,7 @@ const Home = () => {
       <StarBackground />
 
       {/* NavBar */}
-      <Navbar/>
+      <Navbar />
 
       {/* Main Content */}
       <main>
@@ -32,7 +32,7 @@ const Home = () => {
         <SkillsSection />
 
         {/* Projects Set Section */}
-        <ProjectsSection/>
+        <ProjectsSection />
       </main>
 
 
