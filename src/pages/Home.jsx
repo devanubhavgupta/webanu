@@ -4,6 +4,8 @@ import StarBackground from '../components/StarBackground'
 import Navbar from '../components/Navbar'
 import HeroSection from '../components/HeroSection'
 import AboutSection from '../components/AboutSection'
+import SkillsSection from '../components/SkillsSection'
+import ProjectsSection from '../components/ProjectsSection'
 
 
 const Home = () => {
@@ -16,7 +18,7 @@ const Home = () => {
       <StarBackground />
 
       {/* NavBar */}
-      <Navbar />
+      <Navbar/>
 
       {/* Main Content */}
       <main>
@@ -25,6 +27,12 @@ const Home = () => {
 
         {/* About Section */}
         <AboutSection />
+
+        {/* Skills Set Section */}
+        <SkillsSection />
+
+        {/* Projects Set Section */}
+        <ProjectsSection/>
       </main>
 
 
