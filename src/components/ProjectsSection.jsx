@@ -27,7 +27,7 @@ const projects = [
         title: "Portfolio Website",
         description: "A introduction page carry my all skills and my academic growth made with react.",
         image: "/projects/webanu.png",
-        tags: ["React", "TailwindCSS", "GSAP"],
+        tags: ["React", "TailwindCSS"],
         demourl: "#",
         githubUrl: "https://github.com/devanubhavgupta/webanu"
     },
